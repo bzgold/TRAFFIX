@@ -4,7 +4,7 @@ Traffix is an AI-powered storytelling assistant that integrates structured traff
 
 CODE TO APP: https://github.com/bzgold/TRAFFIX
 
-LOOM VIDEO: 
+LOOM VIDEO: https://www.loom.com/share/f0df205ee7614b4c9fd32046a5904707?sid=a825d7e4-4a44-4fcb-a7a2-1107f30bde0a
 
 WRITTEN PAPER: 
 
