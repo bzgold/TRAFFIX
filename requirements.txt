@@ -1,0 +1,53 @@
+# Core LLM and AI
+openai==1.6.1
+langchain==0.1.0
+langchain-openai==0.0.5
+langchain-community==0.0.10
+langgraph==0.0.20
+langsmith==0.0.80
+
+# Vector Database and Embeddings
+qdrant-client==1.7.0
+sentence-transformers==2.2.2
+
+# Evaluation and Monitoring
+ragas==0.2.10
+langchain-experimental==0.0.50
+langchain-cohere>=0.1.0  # For Cohere reranking
+datasets>=2.14.0  # For RAGAS evaluation
+faiss-cpu>=1.7.0  # For FAISS vector store in evaluation
+rank-bm25>=0.2.0  # For BM25 keyword retrieval
+
+# User Interface
+streamlit==1.28.0
+streamlit-option-menu==0.3.6
+plotly==5.17.0
+
+# Data Processing
+pandas==2.1.4
+numpy==1.24.3
+requests==2.31.0
+beautifulsoup4==4.12.2
+
+# Configuration and Environment
+python-dotenv==1.0.0
+pydantic==2.5.2
+
+# API and Web Framework
+fastapi==0.104.1
+uvicorn==0.24.0
+python-multipart==0.0.6
+jinja2==3.1.2
+aiofiles==23.2.1
+httpx==0.25.2
+
+# Database
+sqlalchemy==2.0.23
+psycopg2-binary==2.9.9
+
+# Utilities
+schedule==1.2.0
+
+# Additional dependencies for complete integration
+PyPDF2==3.0.1
+langchain-text-splitters==0.0.1
