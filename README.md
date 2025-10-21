@@ -6,7 +6,7 @@ CODE TO APP: https://github.com/bzgold/TRAFFIX
 
 LOOM VIDEO: 
 
-WRTITTEN PAPER: 
+WRITTEN PAPER: 
 
 ## Features
 
