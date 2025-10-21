@@ -2,11 +2,11 @@
 
 Traffix is an AI-powered storytelling assistant that integrates structured traffic data (RITIS) and unstructured sources (news articles, incident summaries) to reduce analysts' manual investigation and provide quick or deep narrative reports. It consolidates multiple data sources to automatically retrieve, correlate, and synthesize information, highlighting notable patterns or events and generating evidence-based narratives that can be exported or emailed.
 
-CODE TO APP: https://github.com/bzgold/TRAFFIX
+# CODE TO APP: https://github.com/bzgold/TRAFFIX
 
-LOOM VIDEO: https://www.loom.com/share/f0df205ee7614b4c9fd32046a5904707?sid=a825d7e4-4a44-4fcb-a7a2-1107f30bde0a
+# LOOM VIDEO: https://www.loom.com/share/f0df205ee7614b4c9fd32046a5904707?sid=a825d7e4-4a44-4fcb-a7a2-1107f30bde0a
 
-WRITTEN PAPER: 
+# WRITTEN PAPER: https://github.com/bzgold/TRAFFIX/blob/main/TRAFFIX%20REPORT.pdf
 
 ## Features
 
